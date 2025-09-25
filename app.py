@@ -121,7 +121,7 @@ def login():
         else:
             error = 'Invalid username or password.'
     return f'''
-    <html><head><title>Login</title>
+    <html><head><title>Login Now</title>
     <style>
     body {{ font-family: Arial, sans-serif; background: #e0eafc; }}
     .login-container {{ max-width: 350px; margin: 80px auto; background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #b0c4de; padding: 32px; }}
